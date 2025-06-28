@@ -20,3 +20,4 @@ async def websocket_endpoint(websocket: WebSocket):
     except Exception as e:
         print("Connection closed:", e)
         connected_clients.remove(websocket)
+
