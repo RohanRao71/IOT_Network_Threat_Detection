@@ -18,7 +18,6 @@ __pycache__/
 # Data files and logs
 *.log
 *.csv
-*.pkl
 *.joblib
 
 # OS-specific
