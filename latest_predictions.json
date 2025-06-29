@@ -1,152 +1,152 @@
 [
   {
-    "timestamp": "2025-06-28T12:21:35.508468",
+    "timestamp": "2025-06-28T12:25:30.508468",
+    "node_id": "ESP32_003",
+    "prediction": "NORMAL",
+    "confidence": 0.0
+  },
+  {
+    "timestamp": "2025-06-28T12:25:30.708468",
     "node_id": "ESP32_001",
+    "prediction": "NORMAL",
+    "confidence": 0.27
+  },
+  {
+    "timestamp": "2025-06-28T12:25:30.908468",
+    "node_id": "ESP32_002",
+    "prediction": "NORMAL",
+    "confidence": 0.0
+  },
+  {
+    "timestamp": "2025-06-28T12:25:31.108468",
+    "node_id": "ESP32_003",
+    "prediction": "NORMAL",
+    "confidence": 0.0
+  },
+  {
+    "timestamp": "2025-06-28T12:25:31.308468",
+    "node_id": "ESP32_001",
+    "prediction": "NORMAL",
+    "confidence": 0.0
+  },
+  {
+    "timestamp": "2025-06-28T12:25:31.508468",
+    "node_id": "ESP32_002",
+    "prediction": "NORMAL",
+    "confidence": 0.27
+  },
+  {
+    "timestamp": "2025-06-28T12:25:31.708468",
+    "node_id": "ESP32_003",
     "prediction": "ATTACK",
     "confidence": 0.75
   },
   {
-    "timestamp": "2025-06-28T12:21:35.708468",
-    "node_id": "ESP32_002",
-    "prediction": "ATTACK",
-    "confidence": 0.87
-  },
-  {
-    "timestamp": "2025-06-28T12:21:35.908468",
-    "node_id": "ESP32_003",
-    "prediction": "ATTACK",
-    "confidence": 1.0
-  },
-  {
-    "timestamp": "2025-06-28T12:21:36.108468",
+    "timestamp": "2025-06-28T12:25:31.908468",
     "node_id": "ESP32_001",
     "prediction": "NORMAL",
     "confidence": 0.0
   },
   {
-    "timestamp": "2025-06-28T12:21:36.308468",
+    "timestamp": "2025-06-28T12:25:32.108468",
     "node_id": "ESP32_002",
     "prediction": "NORMAL",
-    "confidence": 0.0
+    "confidence": 0.27
   },
   {
-    "timestamp": "2025-06-28T12:21:36.508468",
-    "node_id": "ESP32_003",
-    "prediction": "ATTACK",
-    "confidence": 0.86
-  },
-  {
-    "timestamp": "2025-06-28T12:21:36.708468",
-    "node_id": "ESP32_001",
-    "prediction": "NORMAL",
-    "confidence": 0.0
-  },
-  {
-    "timestamp": "2025-06-28T12:21:36.908468",
-    "node_id": "ESP32_002",
-    "prediction": "NORMAL",
-    "confidence": 0.0
-  },
-  {
-    "timestamp": "2025-06-28T12:21:37.108468",
+    "timestamp": "2025-06-28T12:25:32.308468",
     "node_id": "ESP32_003",
     "prediction": "NORMAL",
     "confidence": 0.0
   },
   {
-    "timestamp": "2025-06-28T12:21:37.308468",
+    "timestamp": "2025-06-28T12:25:32.508468",
     "node_id": "ESP32_001",
     "prediction": "NORMAL",
     "confidence": 0.0
   },
   {
-    "timestamp": "2025-06-28T12:21:37.508468",
+    "timestamp": "2025-06-28T12:25:32.708468",
     "node_id": "ESP32_002",
     "prediction": "NORMAL",
     "confidence": 0.0
   },
   {
-    "timestamp": "2025-06-28T12:21:37.708468",
-    "node_id": "ESP32_003",
-    "prediction": "ATTACK",
-    "confidence": 1.0
-  },
-  {
-    "timestamp": "2025-06-28T12:21:37.908468",
-    "node_id": "ESP32_001",
-    "prediction": "ATTACK",
-    "confidence": 0.81
-  },
-  {
-    "timestamp": "2025-06-28T12:21:38.108468",
-    "node_id": "ESP32_002",
-    "prediction": "ATTACK",
-    "confidence": 0.84
-  },
-  {
-    "timestamp": "2025-06-28T12:21:38.308468",
+    "timestamp": "2025-06-28T12:25:32.908468",
     "node_id": "ESP32_003",
     "prediction": "NORMAL",
     "confidence": 0.0
   },
   {
-    "timestamp": "2025-06-28T12:21:38.508468",
+    "timestamp": "2025-06-28T12:25:33.108468",
     "node_id": "ESP32_001",
     "prediction": "NORMAL",
-    "confidence": 0.0
+    "confidence": 0.3
   },
   {
-    "timestamp": "2025-06-28T12:21:38.708468",
+    "timestamp": "2025-06-28T12:25:33.308468",
     "node_id": "ESP32_002",
     "prediction": "NORMAL",
-    "confidence": 0.0
+    "confidence": 0.42
   },
   {
-    "timestamp": "2025-06-28T12:21:38.908468",
+    "timestamp": "2025-06-28T12:25:33.508468",
     "node_id": "ESP32_003",
-    "prediction": "ATTACK",
-    "confidence": 1.0
-  },
-  {
-    "timestamp": "2025-06-28T12:21:39.108468",
-    "node_id": "ESP32_001",
     "prediction": "NORMAL",
     "confidence": 0.0
   },
   {
-    "timestamp": "2025-06-28T12:21:39.308468",
+    "timestamp": "2025-06-28T12:25:33.708468",
+    "node_id": "ESP32_001",
+    "prediction": "NORMAL",
+    "confidence": 0.24
+  },
+  {
+    "timestamp": "2025-06-28T12:25:33.908468",
     "node_id": "ESP32_002",
     "prediction": "NORMAL",
     "confidence": 0.0
   },
   {
-    "timestamp": "2025-06-28T12:21:39.508468",
+    "timestamp": "2025-06-28T12:25:34.108468",
     "node_id": "ESP32_003",
-    "prediction": "ATTACK",
-    "confidence": 0.95
-  },
-  {
-    "timestamp": "2025-06-28T12:21:39.708468",
-    "node_id": "ESP32_001",
     "prediction": "NORMAL",
     "confidence": 0.0
   },
   {
-    "timestamp": "2025-06-28T12:21:39.908468",
+    "timestamp": "2025-06-28T12:25:34.308468",
+    "node_id": "ESP32_001",
+    "prediction": "NORMAL",
+    "confidence": 0.46
+  },
+  {
+    "timestamp": "2025-06-28T12:25:34.508468",
+    "node_id": "ESP32_002",
+    "prediction": "NORMAL",
+    "confidence": 0.27
+  },
+  {
+    "timestamp": "2025-06-28T12:25:34.708468",
+    "node_id": "ESP32_003",
+    "prediction": "NORMAL",
+    "confidence": 0.0
+  },
+  {
+    "timestamp": "2025-06-28T12:25:34.908468",
+    "node_id": "ESP32_001",
+    "prediction": "NORMAL",
+    "confidence": 0.28
+  },
+  {
+    "timestamp": "2025-06-28T12:25:35.108468",
     "node_id": "ESP32_002",
     "prediction": "NORMAL",
     "confidence": 0.0
   },
   {
-    "timestamp": "2025-06-28T12:21:40.108468",
+    "timestamp": "2025-06-28T12:25:35.308468",
     "node_id": "ESP32_003",
-    "prediction": "ATTACK",
-    "confidence": 0.94
-  },
-  {
-    "timestamp": "2025-06-28T12:21:40.308468",
-    "node_id": "ESP32_001",
-    "prediction": "ATTACK",
-    "confidence": 0.8
+    "prediction": "NORMAL",
+    "confidence": 0.27
   }
 ]
